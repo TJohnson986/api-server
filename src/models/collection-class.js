@@ -18,6 +18,8 @@ class Collection {
   }
 
   delete(){
-    
+
   }
 }
+
+module.exports = Collection;
